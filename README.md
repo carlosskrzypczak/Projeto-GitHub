@@ -3,6 +3,6 @@ arquivos
 Boas vindas ao meu perfil 💙💙
 meu nome e Carlos
 Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![](https://i.gifer.com/NPV4.gif)
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvi
+
 
